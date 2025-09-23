@@ -1,0 +1,32 @@
+C:\Users\aaron\source\repos\CST-150 DogClass\CST-150 DogClass\bin\Debug\net8.0-windows\CST-150 DogClass.exe
+C:\Users\aaron\source\repos\CST-150 DogClass\CST-150 DogClass\bin\Debug\net8.0-windows\CST-150 DogClass.deps.json
+C:\Users\aaron\source\repos\CST-150 DogClass\CST-150 DogClass\bin\Debug\net8.0-windows\CST-150 DogClass.runtimeconfig.json
+C:\Users\aaron\source\repos\CST-150 DogClass\CST-150 DogClass\bin\Debug\net8.0-windows\CST-150 DogClass.dll
+C:\Users\aaron\source\repos\CST-150 DogClass\CST-150 DogClass\bin\Debug\net8.0-windows\CST-150 DogClass.pdb
+C:\Users\aaron\source\repos\CST-150 DogClass\CST-150 DogClass\obj\Debug\net8.0-windows\CST-150 DogClass.csproj.GenerateResource.cache
+C:\Users\aaron\source\repos\CST-150 DogClass\CST-150 DogClass\obj\Debug\net8.0-windows\CST-150 DogClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaron\source\repos\CST-150 DogClass\CST-150 DogClass\obj\Debug\net8.0-windows\CST-150 DogClass.AssemblyInfoInputs.cache
+C:\Users\aaron\source\repos\CST-150 DogClass\CST-150 DogClass\obj\Debug\net8.0-windows\CST-150 DogClass.AssemblyInfo.cs
+C:\Users\aaron\source\repos\CST-150 DogClass\CST-150 DogClass\obj\Debug\net8.0-windows\CST-150 DogClass.csproj.CoreCompileInputs.cache
+C:\Users\aaron\source\repos\CST-150 DogClass\CST-150 DogClass\obj\Debug\net8.0-windows\CST-150 DogClass.dll
+C:\Users\aaron\source\repos\CST-150 DogClass\CST-150 DogClass\obj\Debug\net8.0-windows\refint\CST-150 DogClass.dll
+C:\Users\aaron\source\repos\CST-150 DogClass\CST-150 DogClass\obj\Debug\net8.0-windows\CST-150 DogClass.pdb
+C:\Users\aaron\source\repos\CST-150 DogClass\CST-150 DogClass\obj\Debug\net8.0-windows\CST-150 DogClass.genruntimeconfig.cache
+C:\Users\aaron\source\repos\CST-150 DogClass\CST-150 DogClass\obj\Debug\net8.0-windows\ref\CST-150 DogClass.dll
+C:\Users\aaron\source\repos\CST-150 DogClass\CST-150 DogClass\obj\Debug\net8.0-windows\CST_150_DogClass.PresentationLayer.FrmMain.resources
+C:\Users\aaron\source\repos\Activity 5 Part 1 and 2\CST-150 DogClass\CST-150 DogClass\bin\Debug\net8.0-windows\CST-150 DogClass.exe
+C:\Users\aaron\source\repos\Activity 5 Part 1 and 2\CST-150 DogClass\CST-150 DogClass\bin\Debug\net8.0-windows\CST-150 DogClass.deps.json
+C:\Users\aaron\source\repos\Activity 5 Part 1 and 2\CST-150 DogClass\CST-150 DogClass\bin\Debug\net8.0-windows\CST-150 DogClass.runtimeconfig.json
+C:\Users\aaron\source\repos\Activity 5 Part 1 and 2\CST-150 DogClass\CST-150 DogClass\bin\Debug\net8.0-windows\CST-150 DogClass.dll
+C:\Users\aaron\source\repos\Activity 5 Part 1 and 2\CST-150 DogClass\CST-150 DogClass\bin\Debug\net8.0-windows\CST-150 DogClass.pdb
+C:\Users\aaron\source\repos\Activity 5 Part 1 and 2\CST-150 DogClass\CST-150 DogClass\obj\Debug\net8.0-windows\CST_150_DogClass.PresentationLayer.FrmMain.resources
+C:\Users\aaron\source\repos\Activity 5 Part 1 and 2\CST-150 DogClass\CST-150 DogClass\obj\Debug\net8.0-windows\CST-150 DogClass.csproj.GenerateResource.cache
+C:\Users\aaron\source\repos\Activity 5 Part 1 and 2\CST-150 DogClass\CST-150 DogClass\obj\Debug\net8.0-windows\CST-150 DogClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaron\source\repos\Activity 5 Part 1 and 2\CST-150 DogClass\CST-150 DogClass\obj\Debug\net8.0-windows\CST-150 DogClass.AssemblyInfoInputs.cache
+C:\Users\aaron\source\repos\Activity 5 Part 1 and 2\CST-150 DogClass\CST-150 DogClass\obj\Debug\net8.0-windows\CST-150 DogClass.AssemblyInfo.cs
+C:\Users\aaron\source\repos\Activity 5 Part 1 and 2\CST-150 DogClass\CST-150 DogClass\obj\Debug\net8.0-windows\CST-150 DogClass.csproj.CoreCompileInputs.cache
+C:\Users\aaron\source\repos\Activity 5 Part 1 and 2\CST-150 DogClass\CST-150 DogClass\obj\Debug\net8.0-windows\CST-150 DogClass.dll
+C:\Users\aaron\source\repos\Activity 5 Part 1 and 2\CST-150 DogClass\CST-150 DogClass\obj\Debug\net8.0-windows\refint\CST-150 DogClass.dll
+C:\Users\aaron\source\repos\Activity 5 Part 1 and 2\CST-150 DogClass\CST-150 DogClass\obj\Debug\net8.0-windows\CST-150 DogClass.pdb
+C:\Users\aaron\source\repos\Activity 5 Part 1 and 2\CST-150 DogClass\CST-150 DogClass\obj\Debug\net8.0-windows\CST-150 DogClass.genruntimeconfig.cache
+C:\Users\aaron\source\repos\Activity 5 Part 1 and 2\CST-150 DogClass\CST-150 DogClass\obj\Debug\net8.0-windows\ref\CST-150 DogClass.dll

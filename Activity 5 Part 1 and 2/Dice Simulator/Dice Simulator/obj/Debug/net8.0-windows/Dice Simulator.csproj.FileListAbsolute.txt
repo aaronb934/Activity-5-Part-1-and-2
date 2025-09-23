@@ -1,0 +1,34 @@
+C:\Users\aaron\source\repos\Dice Simulator\Dice Simulator\bin\Debug\net8.0-windows\Dice Simulator.exe
+C:\Users\aaron\source\repos\Dice Simulator\Dice Simulator\bin\Debug\net8.0-windows\Dice Simulator.deps.json
+C:\Users\aaron\source\repos\Dice Simulator\Dice Simulator\bin\Debug\net8.0-windows\Dice Simulator.runtimeconfig.json
+C:\Users\aaron\source\repos\Dice Simulator\Dice Simulator\bin\Debug\net8.0-windows\Dice Simulator.dll
+C:\Users\aaron\source\repos\Dice Simulator\Dice Simulator\bin\Debug\net8.0-windows\Dice Simulator.pdb
+C:\Users\aaron\source\repos\Dice Simulator\Dice Simulator\obj\Debug\net8.0-windows\Dice_Simulator.Form1.resources
+C:\Users\aaron\source\repos\Dice Simulator\Dice Simulator\obj\Debug\net8.0-windows\Dice Simulator.csproj.GenerateResource.cache
+C:\Users\aaron\source\repos\Dice Simulator\Dice Simulator\obj\Debug\net8.0-windows\Dice Simulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaron\source\repos\Dice Simulator\Dice Simulator\obj\Debug\net8.0-windows\Dice Simulator.AssemblyInfoInputs.cache
+C:\Users\aaron\source\repos\Dice Simulator\Dice Simulator\obj\Debug\net8.0-windows\Dice Simulator.AssemblyInfo.cs
+C:\Users\aaron\source\repos\Dice Simulator\Dice Simulator\obj\Debug\net8.0-windows\Dice Simulator.csproj.CoreCompileInputs.cache
+C:\Users\aaron\source\repos\Dice Simulator\Dice Simulator\obj\Debug\net8.0-windows\Dice Simulator.dll
+C:\Users\aaron\source\repos\Dice Simulator\Dice Simulator\obj\Debug\net8.0-windows\refint\Dice Simulator.dll
+C:\Users\aaron\source\repos\Dice Simulator\Dice Simulator\obj\Debug\net8.0-windows\Dice Simulator.pdb
+C:\Users\aaron\source\repos\Dice Simulator\Dice Simulator\obj\Debug\net8.0-windows\Dice Simulator.genruntimeconfig.cache
+C:\Users\aaron\source\repos\Dice Simulator\Dice Simulator\obj\Debug\net8.0-windows\ref\Dice Simulator.dll
+C:\Users\aaron\source\repos\Dice Simulator\Dice Simulator\obj\Debug\net8.0-windows\Dice_Simulator.Properties.Resources.resources
+C:\Users\aaron\source\repos\Activity 5 Part 1 and 2\Dice Simulator\Dice Simulator\bin\Debug\net8.0-windows\Dice Simulator.exe
+C:\Users\aaron\source\repos\Activity 5 Part 1 and 2\Dice Simulator\Dice Simulator\bin\Debug\net8.0-windows\Dice Simulator.deps.json
+C:\Users\aaron\source\repos\Activity 5 Part 1 and 2\Dice Simulator\Dice Simulator\bin\Debug\net8.0-windows\Dice Simulator.runtimeconfig.json
+C:\Users\aaron\source\repos\Activity 5 Part 1 and 2\Dice Simulator\Dice Simulator\bin\Debug\net8.0-windows\Dice Simulator.dll
+C:\Users\aaron\source\repos\Activity 5 Part 1 and 2\Dice Simulator\Dice Simulator\bin\Debug\net8.0-windows\Dice Simulator.pdb
+C:\Users\aaron\source\repos\Activity 5 Part 1 and 2\Dice Simulator\Dice Simulator\obj\Debug\net8.0-windows\Dice_Simulator.Form1.resources
+C:\Users\aaron\source\repos\Activity 5 Part 1 and 2\Dice Simulator\Dice Simulator\obj\Debug\net8.0-windows\Dice_Simulator.Properties.Resources.resources
+C:\Users\aaron\source\repos\Activity 5 Part 1 and 2\Dice Simulator\Dice Simulator\obj\Debug\net8.0-windows\Dice Simulator.csproj.GenerateResource.cache
+C:\Users\aaron\source\repos\Activity 5 Part 1 and 2\Dice Simulator\Dice Simulator\obj\Debug\net8.0-windows\Dice Simulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaron\source\repos\Activity 5 Part 1 and 2\Dice Simulator\Dice Simulator\obj\Debug\net8.0-windows\Dice Simulator.AssemblyInfoInputs.cache
+C:\Users\aaron\source\repos\Activity 5 Part 1 and 2\Dice Simulator\Dice Simulator\obj\Debug\net8.0-windows\Dice Simulator.AssemblyInfo.cs
+C:\Users\aaron\source\repos\Activity 5 Part 1 and 2\Dice Simulator\Dice Simulator\obj\Debug\net8.0-windows\Dice Simulator.csproj.CoreCompileInputs.cache
+C:\Users\aaron\source\repos\Activity 5 Part 1 and 2\Dice Simulator\Dice Simulator\obj\Debug\net8.0-windows\Dice Simulator.dll
+C:\Users\aaron\source\repos\Activity 5 Part 1 and 2\Dice Simulator\Dice Simulator\obj\Debug\net8.0-windows\refint\Dice Simulator.dll
+C:\Users\aaron\source\repos\Activity 5 Part 1 and 2\Dice Simulator\Dice Simulator\obj\Debug\net8.0-windows\Dice Simulator.pdb
+C:\Users\aaron\source\repos\Activity 5 Part 1 and 2\Dice Simulator\Dice Simulator\obj\Debug\net8.0-windows\Dice Simulator.genruntimeconfig.cache
+C:\Users\aaron\source\repos\Activity 5 Part 1 and 2\Dice Simulator\Dice Simulator\obj\Debug\net8.0-windows\ref\Dice Simulator.dll
